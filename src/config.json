@@ -1,0 +1,9 @@
+{
+    "interval_minutes": 5,
+    "pairs": [
+      {
+        "s3_location": "s3://my-bucket/path",
+        "ftp_location": "ftp://user:password@host/path"
+      }
+    ]
+  }
